@@ -5,9 +5,11 @@
 
 ## 1. Integrantes do grupo
 
-- [Nome completo do integrante 1]
-- [Nome completo do integrante 2]
-- [Nome completo do integrante 3]
+- João Gabriel Santos
+- Daniel Santos
+- Nathan Santos
+- Pedro Lucas
+- Jesumira Felix
 
 ---
 
