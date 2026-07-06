@@ -4,9 +4,11 @@ Sistema de gerenciamento de locação de veículos, desenvolvido como Projeto Fi
 
 ## 👥 Integrantes
 
-- [Nome completo do integrante 1]
-- [Nome completo do integrante 2]
-- [Nome completo do integrante 3]
+- João Gabriel Santos
+- Daniel Santos
+- Nathan Santos
+- Pedro Lucas
+- Jesumira Felix
 
 ## 📖 Sobre o projeto
 
@@ -47,7 +49,7 @@ locadora-veiculos/
 
 ```bash
 # Clonar o repositório
-git clone <URL-DO-REPOSITORIO>
+git clone https://github.com/joaosantosz/locadora-veiculos.git
 cd locadora-veiculos
 
 # Compilar
