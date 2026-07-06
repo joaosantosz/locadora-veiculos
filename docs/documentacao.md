@@ -259,7 +259,8 @@ classDiagram
     Locacao "1" --> "1" StatusLocacao : associação
 ```
 
-> O diagrama acima renderiza automaticamente ao visualizar este arquivo no GitHub. Repositórios (`ClienteRepositorio`, `FuncionarioRepositorio`, `VeiculoRepositorio`, `LocacaoRepositorio`) implementam a interface genérica `Repositorio<T>` e não foram incluídos no diagrama de domínio por pertencerem à camada de persistência, não de modelo.
+
+
 
 ### Relacionamentos principais
 
